@@ -9,9 +9,6 @@ Join me in our shared adventure of data exploration! Let's have an enjoyable tim
 🌱 Don't hesitate to write me if you think you can make some improvement or if you want to collaborate with me. 
 
 ## Technical Knowledge
-
-### Languages
-
 ![Python](https://img.shields.io/badge/Python--3776AB?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/MySQL--3776AB?style=plastic&logo=MySQl)
 ![Pandas](https://img.shields.io/badge/Pandas--3776AB?style=plastic&logo=Pandas)
