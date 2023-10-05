@@ -9,11 +9,11 @@ Join me in our shared adventure of data exploration! Let's have an enjoyable tim
 🌱 Don't hesitate to write me if you think you can make some improvement or if you want to collaborate with me. 
 
 ## Technical Knowledge
-![Python](https://img.shields.io/badge/Python-faa7f2?style=plastic&logo=Python)
+![Python](https://img.shields.io/badge/Python-78cfcd?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/MySQL-faa7f2?style=plastic&logo=MySQl)
-![Pandas](https://img.shields.io/badge/Pandas-faa7f2?style=plastic&logo=Pandas)
+![Pandas](https://img.shields.io/badge/Pandas-78cfcd?style=plastic&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-faa7f2?style=plastic&logo=NumPy)
-![Seaborn](https://img.shields.io/badge/Seaborn-faa7f2?style=plastic&logo=Seaborn)
+![Seaborn](https://img.shields.io/badge/Seaborn-78cfcd?style=plastic&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-faa7f2?style=plastic&logo=Matplotlib)
-![Tableau](https://img.shields.io/badge/Tableau-faa7f2?style=plastic&logo=Tableau)
+![Tableau](https://img.shields.io/badge/Tableau-78cfcd?style=plastic&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/PowerBI-faa7f2?style=plastic&logo=PowerBI)
