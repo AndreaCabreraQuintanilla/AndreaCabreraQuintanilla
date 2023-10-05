@@ -6,7 +6,7 @@ Here you can find all the projects that I've done with other people in order to 
 
 Join me in our shared adventure of data exploration! Let's have an enjoyable time together!✨ 
  
-🌱 Don't hesitate to write me if you think you can make some improvement or if you want to collaborate with me. 
+Don't hesitate to write me if you think you can make some improvement or if you want to collaborate with me! 🌱
 
 
 <a href="https://www.linkedin.com/in/andrea-cabrera-quintanilla/"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-Logo-2019.png" height="40px"></a>
