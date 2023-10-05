@@ -9,11 +9,11 @@ Join me in our shared adventure of data exploration! Let's have an enjoyable tim
 🌱 Don't hesitate to write me if you think you can make some improvement or if you want to collaborate with me. 
 
 ## Technical Knowledge
-![Python](https://img.shields.io/badge/Python-78cfcd?style=plastic&logo=Python)
-![MySQL](https://img.shields.io/badge/MySQL-faa7f2?style=plastic&logo=MySQl)
-![Pandas](https://img.shields.io/badge/Pandas-78cfcd?style=plastic&logo=Pandas)
+![Python](https://img.shields.io/badge/Python-d292f7?style=plastic&logo=Python)
+![MySQL](https://img.shields.io/badge/MySQL-f2a283?style=plastic&logo=MySQl)
+![Pandas](https://img.shields.io/badge/Pandas-83f2f2?style=plastic&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-faa7f2?style=plastic&logo=NumPy)
-![Seaborn](https://img.shields.io/badge/Seaborn-78cfcd?style=plastic&logo=Seaborn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-faa7f2?style=plastic&logo=Matplotlib)
-![Tableau](https://img.shields.io/badge/Tableau-78cfcd?style=plastic&logo=Tableau)
+![Seaborn](https://img.shields.io/badge/Seaborn-f2f29b?style=plastic&logo=Seaborn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-9ba4f2?style=plastic&logo=Matplotlib)
+![Tableau](https://img.shields.io/badge/Tableau-9ef29b?style=plastic&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/PowerBI-faa7f2?style=plastic&logo=PowerBI)
