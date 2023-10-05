@@ -8,6 +8,9 @@ Join me in our shared adventure of data exploration! Let's have an enjoyable tim
  
 🌱 Don't hesitate to write me if you think you can make some improvement or if you want to collaborate with me. 
 
+
+<a href="https://andrea-cabrera-quintanilla/"><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-Logo-2019.png" height="40px"></a>
+
 ## Technical Knowledge
 ![Python](https://img.shields.io/badge/Python-d292f7?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/MySQL-f2a283?style=plastic&logo=MySQl)
